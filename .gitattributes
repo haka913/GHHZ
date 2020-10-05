@@ -1,0 +1,9 @@
+/embedding/* filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2.trainables.vectors_ngrams_lockf.npy filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2.trainables.vectors_vocab_lockf.npy filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2.wv.vectors_ngrams.npy filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2.wv.vectors_vocab.npy filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2 filter=lfs diff=lfs merge=lfs -text
+embedding/ft_model64_2.trainables.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+source/GAN/train_data_lemma_with_da.txt filter=lfs diff=lfs merge=lfs -text
