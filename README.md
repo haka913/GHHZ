@@ -51,7 +51,7 @@ DCGAN으로 학습후 loss와 cosine 유사도
 
 ![image](https://user-images.githubusercontent.com/43568065/130984986-9681547b-5bc3-4a9f-85ae-7919e1fca6d7.png)
 
-|      |    **Basline ** |               |               | **GAN-embedding** |               |               |
+|      |    **Baseline** |               |               | **GAN-embedding** |               |               |
 |:----:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 |      |   precision   |     recall    |       F1      |   precision   |     recall    |       F1      |
 | 기본 |     87.69%    |     78.24%    |     82.70%    |     89.14%    |     80.42%    |     84.56%    |
